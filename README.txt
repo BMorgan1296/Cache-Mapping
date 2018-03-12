@@ -1,0 +1,1 @@
+gcc -std=gnu99 -o 1 -O2 sizeTest.c for compiling size test
