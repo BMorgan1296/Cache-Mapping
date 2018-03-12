@@ -1,1 +1,0 @@
-compile setSizeCalculator and waySizeCalculator with gcc -std=gnu99 -o 1 -O2 NAME.c
